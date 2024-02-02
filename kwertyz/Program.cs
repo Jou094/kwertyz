@@ -7,6 +7,7 @@ namespace kwertyz
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Carps!");
+            Console.WriteLine("pangalawa");
         }
     }
 }
